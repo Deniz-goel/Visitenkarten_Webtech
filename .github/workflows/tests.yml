@@ -1,4 +1,4 @@
-//GI
+//GIT
 name: tests
 
 on: [ push ]
